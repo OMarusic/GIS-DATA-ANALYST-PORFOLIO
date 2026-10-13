@@ -51,13 +51,12 @@ Located in the `ERDs` folder.
   - Library_Management_Database_Report.pdf
   - create_tables.sql
   - insert_sample_data.sql
+  - screenshots.pdf
 
   - ERDs
     - CONCEPTUAL_MODEL.jpg
     - LOGICAL_MODEL.jpg
     - PHYSICAL_MODEL.jpg
-
-  - Screenshots
 
 
 ## Skills Demonstrated
