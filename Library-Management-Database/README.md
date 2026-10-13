@@ -45,18 +45,18 @@ Located in the `ERDs` folder.
 
 ## Repository Structure
 
-# Library-Management-Database
+### Library-Management-Database
 
-  -README.md
-  -Library_Management_Database_Report.pdf
-  -create_tables.sql
+  - README.md
+  - Library_Management_Database_Report.pdf
+  - create_tables.sql
 
-  -ERDs
-    -CONCEPTUAL_MODEL.jpg
-    -LOGICAL_MODEL.jpg
-    -PHYSICAL_MODEL.jpg
+  - ERDs
+    - CONCEPTUAL_MODEL.jpg
+    - LOGICAL_MODEL.jpg
+    - PHYSICAL_MODEL.jpg
 
-  -Screenshots
+  - Screenshots
 
 
 ## Skills Demonstrated
