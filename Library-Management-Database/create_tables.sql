@@ -1,3 +1,6 @@
+Database Creation Script
+  Author: Olga Marusic
+
 CREATE TABLE Member (
 MemberID int AUTO_INCREMENT PRIMARY KEY,
 Member_Fname varchar(50) ,
