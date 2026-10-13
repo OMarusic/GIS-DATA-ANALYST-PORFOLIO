@@ -22,19 +22,6 @@ This project involved the design of a relational database for a library manageme
 - Inter-Library Loans
 - Data Validation and Integrity Constraints
 
-## Database Design
-
-The project includes:
-
-### Conceptual Model
-Located in the `ERDs` folder.
-
-### Logical Model
-Located in the `ERDs` folder.
-
-### Physical Model
-Located in the `ERDs` folder.
-
 ## Technologies Used
 
 - SQL
@@ -43,20 +30,14 @@ Located in the `ERDs` folder.
 - Relational Database Design
 - Data Normalisation (1NF, 2NF, 3NF)
 
-## Repository Structure
+## Project Files
 
-### Library-Management-Database
-
-  - README.md
-  - Library_Management_Database_Report.pdf
-  - create_tables.sql
-  - insert_sample_data.sql
-  - screenshots.pdf
-
-  - ERDs
-    - CONCEPTUAL_MODEL.jpg
-    - LOGICAL_MODEL.jpg
-    - PHYSICAL_MODEL.jpg
+- Library_Management_Database_Report.pdf – Project documentation
+- create_tables.sql – Database schema
+- insert_sample_data.sql – Sample data
+- queries_results.sql - Queries
+- database_screenshots.pdf – Query and implementation screenshots
+- ERDs/ – Conceptual, logical and physical data models
 
 
 ## Skills Demonstrated
