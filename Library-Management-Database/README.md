@@ -37,10 +37,10 @@ Located in the `ERDs` folder.
 
 ## Technologies Used
 
-- MySQL
 - SQL
-- Database Design
-- Entity Relationship Modelling (ERD)
+- MySQL Workbench
+- draw.io (ERD Modelling)
+- Relational Database Design
 - Data Normalisation (1NF, 2NF, 3NF)
 
 ## Repository Structure
