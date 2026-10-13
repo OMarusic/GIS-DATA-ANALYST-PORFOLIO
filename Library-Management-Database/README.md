@@ -32,7 +32,7 @@ This project involved the design of a relational database for a library manageme
 
 ## Project Files
 
-- ./Library_Management_Database_Report.pdf – Project documentation
+- ./ Library_Management_Database_Report.pdf – Project documentation
 - create_tables.sql – Database schema
 - insert_sample_data.sql – Sample data
 - queries_results.sql - Queries
