@@ -35,7 +35,6 @@ This project involved the design of a relational database for a library manageme
 - [Library_Management_Database_Report.pdf](Library_Management_Database_Report.pdf) – Project documentation
 - [create_tables.sql](create_tables.sql) – Database schema
 - [insert_sample_data.sql](insert_sample_data.sql) – Sample data
-- queries_results.sql - Queries
 - [database_screenshots.pdf](database_screenshots.pdf) – Query and implementation screenshots
 - [CONCEPTUAL%20MODEL.jpg](ERDs/CONCEPTUAL%20MODEL.jpg)
 - [LOGICAL%20MODEL.jpg](ERDs/LOGICA%20MODEL.jpg)
