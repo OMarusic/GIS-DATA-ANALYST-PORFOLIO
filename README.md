@@ -13,7 +13,7 @@ I am a BSc (Hons) Computing student building projects in:
 
 Projects
 
-Lantern Events Booking System
+Library Management Database
 
 A relational database project developed for Arden University.
 
@@ -27,7 +27,7 @@ Skills demonstrated:
 
 Project folder:
 
-Lantern-Events-Booking-System
+Library-Management-Database
 
 About Me
 
