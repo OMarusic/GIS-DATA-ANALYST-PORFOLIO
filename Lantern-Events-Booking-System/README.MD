@@ -1,4 +1,4 @@
-Lantern Events Booking System
+Library Management Database
 
 Overview
 
