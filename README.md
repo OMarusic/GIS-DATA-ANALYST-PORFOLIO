@@ -13,7 +13,7 @@ I am a BSc (Hons) Computing student building projects in:
 
 Projects
 
-Library Management Database
+1. Library Management Database
 
 A relational database project developed for Arden University.
 
