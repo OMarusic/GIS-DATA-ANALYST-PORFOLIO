@@ -1,26 +1,76 @@
-Library Management Database
+# Library Management Database
 
-Overview
+## Overview
 
-Database design and implementation project completed as part of my BSc (Hons) Computing degree.
+This project involved the design of a relational database for a library management system. The database supports member registration, book management, loans, returns, fines, and inter-library loan processing.
 
-Skills Demonstrated
+## Objectives
 
-- SQL
-- Relational Database Design
-- Entity Relationship Diagrams (ERD)
+- Design a normalized relational database.
+- Create logical and physical data models.
+- Define relationships between entities.
+- Ensure data integrity through primary and foreign keys.
+- Support common library operations such as borrowing and returning items.
+
+## Key Features
+
+- Member Management
+- Staff Management
+- Book and Bibliographic Records
+- Loan Processing
+- Fine Tracking
+- Inter-Library Loans
+- Data Validation and Integrity Constraints
+
+## Database Design
+
+The project includes:
+
+### Conceptual Model
+Located in the `ERDs` folder.
+
+### Logical Model
+Located in the `ERDs` folder.
+
+### Physical Model
+Located in the `ERDs` folder.
+
+## Technologies Used
+
 - MySQL
-- Data Analysis
+- SQL
+- Database Design
+- Entity Relationship Modelling (ERD)
+- Data Normalisation (1NF, 2NF, 3NF)
 
-Project Features
+## Repository Structure
 
-- Member management
-- Event management
-- Booking system
-- Staff administration
-- Room payments
-- Customer feedback
+text
+Library-Management-Database
 
-Author
+  README.md
+  Library_Management_Database_Report.pdf
+  create_tables.sql
+  insert_sample_data.sql
+  
+  ERDs
+    CONCEPTUAL_MODEL.jpg
+    LOGICAL_MODEL.jpg
+    PHYSICAL_MODEL.jpg
+
+  Screenshots
+
+
+## Skills Demonstrated
+
+- Relational Database Design
+- SQL Development
+- Data Modelling
+- Data Normalisation
+- Primary and Foreign Key Relationships
+- Business Requirements Analysis
+
+## Author
 
 Olga Marusic
+BSc (Hons) Computing
