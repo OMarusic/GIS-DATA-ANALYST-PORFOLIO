@@ -37,9 +37,9 @@ This project involved the design of a relational database for a library manageme
 - [insert_sample_data.sql](insert_sample_data.sql) – Sample data
 - queries_results.sql - Queries
 - [database_screenshots.pdf](database_screenshots.pdf) – Query and implementation screenshots
-- [ERDs/CONCEPTUAL MODEL.jpg](CONCEPTUAL MODEL.jpg)
-- [ERDs/LOGICAL MODEL.jpg](LOGICAL MODEL.jpg)
-- [ERDs/PHYSICAL MODEL.jpg](PHYSICAL MODEL.jpg)
+- [CONCEPTUAL MODEL.jpg](ERDs/CONCEPTUAL MODEL.jpg)
+- [LOGICAL MODEL.jpg](ERDs/LOGICAL MODEL.jpg)
+- [PHYSICAL MODEL.jpg](ERDs/PHYSICAL MODEL.jpg)
 
 
 ## Skills Demonstrated
