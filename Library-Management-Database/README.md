@@ -50,6 +50,7 @@ Located in the `ERDs` folder.
   - README.md
   - Library_Management_Database_Report.pdf
   - create_tables.sql
+  - insert_sample_data.sql
 
   - ERDs
     - CONCEPTUAL_MODEL.jpg
