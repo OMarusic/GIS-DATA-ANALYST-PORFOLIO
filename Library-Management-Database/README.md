@@ -30,24 +30,9 @@ This project involved the design of a relational database for a library manageme
 - Relational Database Design
 - Data Normalisation (1NF, 2NF, 3NF)
 
-## Repository Contents
-
-📄 ./Library_Management_Database_Report.pdf
-
-💻 SQL Scripts
-- ./create_tables.sql
-- ./insert_sample_data.sql
-
-📊 ERD Diagrams
-- ./ERDs/CONCEPTUAL_MODEL.jpg
-- ./ERDs/LOGICAL_MODEL.jpg
-- ./ERDs/PHYSICAL_MODEL.jpg
-
-📷 ./database_screenshots.pdf
-
 ## Project Files
 
-- Library_Management_Database_Report.pdf – Project documentation
+- ./Library_Management_Database_Report.pdf – Project documentation
 - create_tables.sql – Database schema
 - insert_sample_data.sql – Sample data
 - queries_results.sql - Queries
