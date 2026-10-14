@@ -52,10 +52,9 @@ The system allows customers to:
 
 ## Repository Structure
 
-- Smart_Locker_System_Report.pdf
-- locker_system.py
-- screenshots.pdf
-- diagrams/
+- [Smart_Locker_System_Report](Smart_Locker_System_Report.pdf)
+- [locker_system](locker_system.py)
+- [FLOWCHART](FLOWCHART.jpg)
 
 ## Author
 
